@@ -7,6 +7,12 @@ A simple command-line task manager to organize daily tasks by categories.
 This is my you may say first complete Python project after learning the basics. 
 No tutorials, no copy-pasting.. just me solving a real problem with code I understand.
 
+## 🛠️ Built With
+- Python
+- JSON
+- pathlib
+- os module
+
 ## What I Learned Building This
 - **File I/O**: Reading/writing JSON files for data persistence
 - **Error Handling**: Proper try/except blocks and input validation
